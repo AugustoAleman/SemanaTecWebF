@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pendientes/tareas", {data:[{}],fetch:{},mutations:void 0});
